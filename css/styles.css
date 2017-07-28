@@ -111,6 +111,9 @@ a {
 .icon:focus + .drop-menu {
 	display: block;
 }
+.icon:hover + .drop-menu {
+	display: block;
+}
 .drop-menu:hover {
 	display: block;
 }
