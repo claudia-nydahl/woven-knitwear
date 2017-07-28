@@ -1,0 +1,11 @@
+.grid {
+  display: block;
+}
+
+.grid .header {
+  width: 100%;
+}
+
+.grid .article {
+  float:left;
+}
